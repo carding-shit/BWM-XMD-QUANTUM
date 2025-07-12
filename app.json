@@ -77,7 +77,7 @@
     "OWNER_NUMBER": {
       "description": "Enter your number eg, 2547xxxxxxx",
       "value": "",
-      "required": true 
+      "required": false 
     },
     "STATUS_REACT_EMOJIS": {
       "description": "Enter your auto like status emojis",
